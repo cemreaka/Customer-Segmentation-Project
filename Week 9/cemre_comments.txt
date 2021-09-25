@@ -1,0 +1,3 @@
+For Dilem's work: She analyzed and cleaned the dataset well. She also checked for unique variables and handled with NA values. Also she checked for outliers.
+For Melisa's work: She performed several methods for analyzing and cleaning the data. She checked for unique variables and outliers. She created logical ideas to cleaning the data and handled with NA values. 
+For Joseph's work: He did the most detailed work. He analyzed and cleaned the data thoroughly and showed it in graphs. We decided to continue moving forward from his file.
