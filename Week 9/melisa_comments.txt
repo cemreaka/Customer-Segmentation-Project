@@ -1,0 +1,5 @@
+For Dilem's work: She analyzed and cleaned the dataset well. She filled in the missing values with the mode and mean. You're done your best, I think. Good job.
+For Cemre's work: She analyzed and cleaned the dataset well. She filled in the missing values according to the higher density and using mode. Also she checked for age outliers. You're done your best, I think. Good job. 
+For Joseph's work: No other word for him. He is the best. He made a very detailed and visual analysis. We decided to continue moving forward from his cleaning file. Good job my friend.
+
+I'm proud of you all !
